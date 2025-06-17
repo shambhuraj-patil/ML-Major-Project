@@ -87,12 +87,17 @@ README.md # Project documentation
 # Clone the repo
 git clone https://github.com/yourusername/fraud-detection-ml.git
 cd fraud-detection-ml
+```
 
 # Install dependencies
+```bash
 pip install pandas matplotlib seaborn scikit-learn imbalanced-learn
+```
 
 # Run the project
+```bash
 python Fraud_Detection.py
+```
 
 ---
 
