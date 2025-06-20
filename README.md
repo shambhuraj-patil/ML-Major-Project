@@ -105,7 +105,7 @@ python Fraud_Detection.py
 
 ## 📌 Notes
 
-Ensure the CSV file is named fraud_detection.csv and placed in the same directory as the Python script.
+- Ensure the CSV file is named fraud_detection.csv and placed in the same directory as the Python script.
 
-Designed for educational and demonstration purposes.
+- Designed for educational and demonstration purposes.
 
