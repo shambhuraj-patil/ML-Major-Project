@@ -7,6 +7,7 @@ This repository contains a complete end-to-end machine learning project that det
 ## 📁 File Structure
 
 Fraud_Detection.py # Main Python script with all logic
+
 fraud_detection.csv # Input dataset containing transaction records
 README.md # Project documentation
 
